@@ -38,49 +38,47 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">Young writer moving into journalism meets a strange, otherworldly woman with long-term political goals.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Arthur Granger, the narrator and a failing novelist, is commissioned to write celebrity profiles in a suspicious journal. On a stroll he meets an otherworldly woman, who tells him she is from a parallel universe and in a conspiracy to take over the world. Arthur is drawn in by her charm and into the world of political machinations, which include a plot for Britain to colonize Greenland.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Inheritors&lt;/i&gt;, released in 1901, is the first of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt;. The book’s concept and most of the writing is attributed to Ford. Conrad served mostly as editor; he himself was writing &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/lord-jim"&gt;&lt;i&gt;Lord Jim&lt;/i&gt;&lt;/a&gt; at the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14888</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/inheritorsanext01fordgoog/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Inheritors</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_ford-madox-ford_the-inheritors</meta>
 		<dc:creator id="author-1">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author-1">Conrad, Joseph</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author-1">Józef Teodor Konrad Korzeniowski</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">Ford Madox Ford</dc:creator>
 		<meta property="file-as" refines="#author-2">Ford, Ford Madox</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author-2">Joseph Leopold Ford Hermann Madox Hueffer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ford_Madox_Ford</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79045085</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Holyoake</dc:contributor>
+		<meta property="file-as" refines="#artist">Holyoake, William</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Etext file produced by Clare Boothby</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Boothby, Clare</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Graeme Mackreth</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Mackreth, Graeme</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net/</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Szymon Szott</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Szott, Szymon</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://szymonszott.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
