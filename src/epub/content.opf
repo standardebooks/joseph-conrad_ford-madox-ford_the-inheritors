@@ -58,14 +58,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">dto</meta>
 		<dc:creator id="author-2">Ford Madox Ford</dc:creator>
 		<meta property="file-as" refines="#author-2">Ford, Ford Madox</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Joseph Leopold Ford Hermann Madox Hueffer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ford_Madox_Ford</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79045085</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">William Holyoake</dc:contributor>
 		<meta property="file-as" refines="#artist">Holyoake, William</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
