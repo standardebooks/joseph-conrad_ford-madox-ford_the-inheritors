@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors</dc:identifier>
 		<dc:date>2025-08-09T17:34:00Z</dc:date>
@@ -41,11 +41,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Arthur Granger, the narrator and a failing novelist, is commissioned to write celebrity profiles in a suspicious journal. On a stroll he meets an otherworldly woman, who tells him she comes from a parallel universe where she’s involved in a conspiracy to take over the world. Arthur is drawn in by her charm and falls into the world of political machinations, which include a plot for Britain to colonize Greenland.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Inheritors&lt;/i&gt;, published in 1901, is the first of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt;. The book’s concept and most of the writing is attributed to Ford. Conrad served mostly as editor; he himself was writing &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/lord-jim"&gt;&lt;i&gt;Lord Jim&lt;/i&gt;&lt;/a&gt; at the time.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14888</dc:source>
 		<dc:source>https://archive.org/details/inheritorsanext01fordgoog</dc:source>
