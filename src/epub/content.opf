@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.</dc:abstract>
+		<meta property="schema:abstract">A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.</meta>
 		<dc:description>
 			&lt;p&gt;Arthur Granger, the narrator and a failing novelist, is commissioned to write celebrity profiles in a suspicious journal. On a stroll he meets an otherworldly woman, who tells him she comes from a parallel universe where she’s involved in a conspiracy to take over the world. Arthur is drawn in by her charm and falls into the world of political machinations, which include a plot for Britain to colonize Greenland.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Inheritors&lt;/i&gt;, published in 1901, is the first of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt;. The book’s concept and most of the writing is attributed to Ford. Conrad served mostly as editor; he himself was writing &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/lord-jim"&gt;&lt;i&gt;Lord Jim&lt;/i&gt;&lt;/a&gt; at the time.&lt;/p&gt;
